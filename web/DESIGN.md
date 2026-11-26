@@ -1,0 +1,1 @@
+Giữ thương hiệu OCOP GO xanh lá và cam của trang home. Cổng quản lý thuộc chế độ Operate: nền trắng ngà, sidebar xanh đậm, chữ Geist hiện có, bảng rõ ràng, khoảng cách thoáng, trạng thái bằng chữ và màu, focus bàn phím rõ, co giãn trên điện thoại. Không dùng số liệu hay biểu đồ giả.

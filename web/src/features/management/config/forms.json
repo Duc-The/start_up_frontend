@@ -1,0 +1,85 @@
+{
+  "pois": {
+    "businessId": "",
+    "areaId": "",
+    "name": "Địa điểm OCOP",
+    "address": "Đà Nẵng",
+    "lat": 16.05,
+    "lng": 108.2,
+    "openingHours": {},
+    "categoryIds": [],
+    "activityIds": [],
+    "amenityIds": [],
+    "version": 0
+  },
+  "products": {
+    "manufacturerPoiId": "",
+    "productTypeId": "",
+    "name": "Sản phẩm OCOP",
+    "description": "Giới thiệu sản phẩm",
+    "version": 0
+  },
+  "certifications": {
+    "productId": "",
+    "type": "OCOP",
+    "ocopStars": 4,
+    "name": "Chứng nhận OCOP",
+    "certificateNumber": "Số chứng nhận",
+    "issuingAuthority": "Đơn vị cấp",
+    "issuedOn": "2026-01-01",
+    "version": 0
+  },
+  "stories": {
+    "poiId": "",
+    "name": "Câu chuyện thương hiệu",
+    "slug": "cau-chuyen-thuong-hieu",
+    "introduction": "Giới thiệu",
+    "founder": "Người sáng lập",
+    "sections": [
+      {
+        "heading": "Quy trình",
+        "body": "Nội dung",
+        "mediaIds": []
+      }
+    ],
+    "version": 0
+  },
+  "events": {
+    "poiId": "",
+    "name": "Sự kiện OCOP",
+    "slug": "su-kien-ocop",
+    "description": "Giới thiệu",
+    "startsAt": "2026-12-01T01:00:00Z",
+    "endsAt": "2026-12-01T10:00:00Z",
+    "organizer": "Cơ sở OCOP",
+    "registrationUrl": "",
+    "recurrence": "",
+    "version": 0
+  },
+  "tours": {
+    "businessId": "",
+    "name": "Tour trải nghiệm",
+    "slug": "tour-trai-nghiem",
+    "description": "Giới thiệu",
+    "version": 0
+  },
+  "businesses": {
+    "name": "Cơ sở OCOP",
+    "introduction": "Giới thiệu",
+    "representative": "Người đại diện",
+    "phone": "0900000000",
+    "email": "contact@example.com",
+    "website": "",
+    "socialLinks": {},
+    "active": true,
+    "version": 0
+  },
+  "listings": {
+    "poiId": "",
+    "productId": "",
+    "priceVnd": 150000,
+    "stockQuantity": 10,
+    "active": true,
+    "version": 0
+  }
+}

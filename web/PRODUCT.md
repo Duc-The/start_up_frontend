@@ -1,0 +1,1 @@
+OCOP GO kết nối sản phẩm OCOP và du lịch Đà Nẵng. Khách hàng khám phá trên Map4D. Admin quản trị và kiểm duyệt; Partner chỉ quản lý cơ sở được giao. Cổng quản lý cần đọc dữ liệu backend thật, form tiếng Việt, Cloudinary cho media, hiển thị rõ trạng thái và lỗi. Người dùng đã duyệt phạm vi trong cuộc trò chuyện.

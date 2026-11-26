@@ -1,0 +1,37 @@
+export const catalogFields: Record<string, string[]> = {
+  "catalogs/areas": ["name", "code", "active"],
+  "catalogs/product-types": [
+    "name",
+    "slug",
+    "iconUrl",
+    "parentId",
+    "sortOrder",
+    "active",
+  ],
+  "catalogs/poi-categories": ["name", "iconUrl", "colorHex", "parentId"],
+  "catalogs/activities": ["name", "code", "iconUrl", "sortOrder", "active"],
+  "catalogs/amenities": ["name", "code", "iconUrl", "sortOrder", "active"],
+}
+export const requiredFields: Record<string, string[]> = {
+  "catalogs/areas": ["name", "code"],
+  "catalogs/product-types": ["name", "slug", "iconUrl"],
+  "catalogs/poi-categories": ["name"],
+  "catalogs/activities": ["name", "code", "iconUrl"],
+  "catalogs/amenities": ["name", "code", "iconUrl"],
+  businesses: ["name"],
+  pois: ["name", "address", "businessId", "areaId"],
+  products: ["name", "description", "manufacturerPoiId", "productTypeId"],
+  listings: ["poiId", "productId", "priceVnd"],
+  certifications: ["name", "certificateNumber", "issuingAuthority", "issuedOn"],
+  stories: ["name", "slug", "poiId", "introduction"],
+  events: [
+    "name",
+    "slug",
+    "poiId",
+    "description",
+    "startsAt",
+    "endsAt",
+    "organizer",
+  ],
+  tours: ["name", "slug", "businessId", "description"],
+}
